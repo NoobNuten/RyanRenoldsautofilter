@@ -1,13 +1,13 @@
 <p align="center">
-  <img src="sakura/logo.jpg" alt="Sakura Logo">
+  <img src="https://telegra.ph/file/b0dcac244c88f23d035fe.jpg" alt="ramannan Logo">
 </p>
 <h1 align="center">
-  <b>Sakura AutoFilter</b>
+  <b>Ramannan AutoFilter</b>
 </h1>
 
 ## This Bot May Look Like [Mwk_AutofilterBot](https://t.me/Mwk_Autofilterbot) And Its Because I Like Its UI, That's All</b>
 
-# [Sakura](https://t.me/SakuraFilterBot) is an powerfull Autofilter bot that can be used in your groups 
+# [Ramannan](https://t.me/SakuraFilterBot) is an powerfull Autofilter bot that can be used in your groups 
 `Am not recommending you to use the bot in normal groups`
 
 # Wait for v8.0 Build with customised Autofilter 🥺
@@ -17,9 +17,9 @@
 
 # Credits
 * `Base Repo Used In The Build - Eva Maria`
-* © [PaulWalker](https://telegram.dog/PaulWalker_TG)
-* Powered By [XD_Botz](https://telegram.dog/xd_botz)
-* [Subin Ps](https://telegram.dog/subin_works)
+* © [Shaheensha](https://telegram.dog/PaulWalker_TG)
+* Powered By [Nihad](https://telegram.dog/xd_botz)
+* [MoviePrime](https://telegram.dog/subin_works)
 
 ## Features
 - [x] Auto Filter
@@ -49,7 +49,7 @@
 - [x] Purge
 
 # Behind the scene 
-`PaulWalker_TG`
+`Noobnuten`
 
 ## Deploy
 <p><a href="https://heroku.com/deploy?template=https://github.com/NoobNuten/RyanRenoldsautofilter"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a></p>
